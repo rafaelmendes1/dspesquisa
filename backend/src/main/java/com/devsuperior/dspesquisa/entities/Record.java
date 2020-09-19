@@ -29,7 +29,6 @@ public class Record implements Serializable {
 	private Game game;
 	
 	public Record() {
-		
 	}
 
 	public Record(Long id, String name, Integer age, Instant moment, Game game) {
